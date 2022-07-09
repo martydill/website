@@ -1,0 +1,17 @@
+div {
+	margin: 20px;
+}
+
+.footer-container {
+	display: flex;
+	justify-content: center;
+}
+
+.footer {
+	position: absolute;
+	bottom: 0px;
+}
+
+i {
+	margin-right: 32px !important;
+}
