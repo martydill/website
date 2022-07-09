@@ -2,13 +2,13 @@
 	<div>
 		<h2>Hello</h2>
 		<div>
-			<a href="./blog/"><i class='nes-icon coin'></i>Blog</a>
-		</div>
-		<div>
 			<a href="https://www.linkedin.com/in/martydill/"><i class='nes-icon linkedin'></i>LinkedIn</a>
 		</div>
 		<div>
 			<a href="https://github.com/martydill"><i class='nes-icon github' />GitHub</a>
+		</div>
+		<div>
+			<a href="https://code-ninja.org/blog/"><i class='nes-icon coin'></i>Blog Archives</a>
 		</div>
 		<div class="footer-container">
 			<div class="footer">
@@ -19,7 +19,7 @@
 	</div>
 </template>
 
-<script></script>
+<script>
 import Vue from 'vue'
 import VueNesCss from 'vuenes.css'
 
