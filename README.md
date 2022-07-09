@@ -1,4 +1,5 @@
 # codeninja
+This repository stores the content of https://code-ninja.org
 
 ## Build Setup
 
